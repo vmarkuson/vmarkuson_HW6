@@ -1,11 +1,13 @@
 h1{
     text-align: center;
     background-color:#BAA699;
+    padding: 50px;
  
 }
 h2{
     text-align: center;
     background-color:#BAA699;
+    padding: 30px
 }
 a{
     color: #613931;
@@ -13,7 +15,7 @@ a{
 
 
 body{
-    background-color: #F0DCCB;
+    background-color: #FEF8EE;
 }
 img{
 
